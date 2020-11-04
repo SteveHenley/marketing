@@ -42,6 +42,7 @@
 | Dates       | Show                    | Location                 | Cost          | Deadline     | Traffic      | Promoter
 | ------------| ----------------------- | ------------------------ | ------------- | -------------| ------------ | -------------- |
 | June 22-25  | The Block Event         | Miami Convention Center  | $             |              |              |                |
+| June        | Block Summit London     | London, UK               | $             |              |              |                |
 
 
 **July 2021**
